@@ -1,0 +1,12 @@
+.Pokecard{
+    height: 300px;
+    width: 300px;
+    background-color: plum;
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+}
+
+.Pokecard-img:hover{
+    transform: scale(2,3);
+}
